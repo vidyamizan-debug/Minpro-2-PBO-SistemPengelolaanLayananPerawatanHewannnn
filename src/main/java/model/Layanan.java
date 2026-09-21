@@ -25,7 +25,7 @@ public class Layanan {
         this.namaLayanan = namaLayanan;
         this.deskripsi = deskripsi;
         this.harga = harga;
-        this.namaHewan = namaHewan;
+        this.namaHewan = namaHewan; 
         this.namaPemilik = namaPemilik;
         this.jenisHewan = jenisHewan;
         this.rasHewan = rasHewan;
