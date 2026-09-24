@@ -155,30 +155,30 @@ Jika jita memilih menu nomor kelima, maka kita akan dikeluarkan dari sistem.
 
 * Input Harus Berupa Angka
 
-<img width="218" height="142" alt="image" src="https://github.com/user-attachments/assets/0b4a2819-5425-4088-b572-e242ad28a760" />
+<img width="218" height="142" alt="Screenshot 2026-09-24 094039" src="https://github.com/user-attachments/assets/50e11c4d-a453-4a81-96a6-9e46bdf090cb" />
 
 Pada gambar di atas, dapat dilihat bahwa jika pengguna memasukkan input selain angka, maka sistem akan menampilkan "ID yang dimasukkan harus berupa angka!" untuk memastikan input yang dimasukkan valid.
   
 * Input Harus Lebih dari 0
 
-<img width="231" height="65" alt="image" src="https://github.com/user-attachments/assets/6046ccd0-97fd-4552-966a-57257e73f3c8" />
+<img width="231" height="65" alt="Screenshot 2026-09-24 095106" src="https://github.com/user-attachments/assets/8b24c49b-9615-463a-9395-100ff37cfceb" />
 
 Pada gambar di atas, dapat dilihat bahwa jika pengguna memasukkan ID Layanan bernilai 0 atau diluar angka positif, maka sistem akan menampilkan "ID yang dimasukkan harus lebih dari 0!" untuk memastikan input yang dimasukkan valid.
 
 * Input Tidak Boleh Kosong
 
-<img width="164" height="130" alt="image" src="https://github.com/user-attachments/assets/d813459b-0c25-452a-9ac4-51a0467c4064" />
+<img width="164" height="130" alt="Screenshot 2026-09-24 095558" src="https://github.com/user-attachments/assets/04f3387f-f0c6-434c-b317-9f17218b0257" />
 
 Pada gambar di atas, dapat dilihat bahwa jika pengguna mengosongkan inputan data, maka sistem akan menampilkan "Data tidak boleh kosong!" untuk memastikan input yang dimasukkan valid.
 
 * Input Min & Max Pilihan
 
-<img width="171" height="144" alt="image" src="https://github.com/user-attachments/assets/c7ddba86-624b-491c-8233-2be95a446d20" />
+<img width="171" height="144" alt="Screenshot 2026-09-24 094917" src="https://github.com/user-attachments/assets/67b2cc55-2334-46a0-8179-896f444a653a" />
 
 Pada gambar di atas, dapat dilihat bahwa jika pengguna memasukkan angka di luar jangkauan pilihan menu, maka sistem akan menampilkan "Pilihan hanya 1 sampai 5!" untuk memastikan input yang dimasukkan valid.
 
 * Input Harus Berupa Ya/Tidak
 
-<img width="281" height="233" alt="image" src="https://github.com/user-attachments/assets/b242452f-02d3-489e-991f-a3ce6d301358" />
+<img width="281" height="233" alt="Screenshot 2026-09-24 100002" src="https://github.com/user-attachments/assets/dc186648-3a42-4c76-9e6d-2da8083cd75f" />
 
 Pada gambar di atas, dapat dilihat bahwa jika pengguna memasukkan jawaban selain "ya" atau "tidak" pada konfirmasi penghapusan, maka sistem akan menampilkan "Jawaban harus 'ya' atau 'tidak'!" untuk memastikan input yang dimasukkan valid.
