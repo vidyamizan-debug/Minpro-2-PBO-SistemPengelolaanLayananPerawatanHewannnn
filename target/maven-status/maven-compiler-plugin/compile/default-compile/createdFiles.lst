@@ -1,0 +1,7 @@
+model\Penitipan.class
+model\Layanan.class
+com\mycompany\kyapetcareminpro2\KyaPetCareMinpro2.class
+Controller\CRUDKyaPetCare.class
+Controller\CekKyaPetCare.class
+View\Menu.class
+model\Perawatan.class
