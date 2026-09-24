@@ -11,9 +11,7 @@ package model;
 public class Penitipan extends Layanan {
     private int lamaPenitipan;
 
-    public Penitipan(int idLayanan, String namaLayanan, String deskripsi, int harga,
-            String namaHewan, String namaPemilik, String jenisHewan, String rasHewan, int umurHewan,
-            int lamaPenitipan) {
+    public Penitipan(int idLayanan, String namaLayanan, String deskripsi, int harga, String namaHewan, String namaPemilik, String jenisHewan, String rasHewan, int umurHewan, int lamaPenitipan) {
         super(idLayanan, namaLayanan, deskripsi, harga, namaHewan, namaPemilik, jenisHewan, rasHewan, umurHewan);
         this.lamaPenitipan = lamaPenitipan;
     }

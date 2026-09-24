@@ -55,15 +55,13 @@ public class CRUDKyaPetCare {
         if (jenis == 1) {
             String jenisPerawatan = cek.inputString(scanner, "Jenis Perawatan: ");
 
-            Perawatan layanan = new Perawatan(id, namaLayanan, deskripsi, harga,
-                    namaHewan, namaPemilik, jenisHewan, rasHewan, umurHewan, jenisPerawatan);
+            Perawatan layanan = new Perawatan(id, namaLayanan, deskripsi, harga, namaHewan, namaPemilik, jenisHewan, rasHewan, umurHewan, jenisPerawatan);
 
             daftarLayanan.add(layanan);
         } else {
             int lamaPenitipan = cek.inputAngkaPositif(scanner, "Lama Penitipan (hari): ");
 
-            Penitipan layanan = new Penitipan(id, namaLayanan, deskripsi, harga,
-                    namaHewan, namaPemilik, jenisHewan, rasHewan, umurHewan, lamaPenitipan);
+            Penitipan layanan = new Penitipan(id, namaLayanan, deskripsi, harga, namaHewan, namaPemilik, jenisHewan, rasHewan, umurHewan, lamaPenitipan);
 
             daftarLayanan.add(layanan);
         }

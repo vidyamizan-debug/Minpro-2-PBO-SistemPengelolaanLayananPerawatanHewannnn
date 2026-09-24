@@ -19,8 +19,7 @@ public class Layanan {
     protected String rasHewan;
     protected int umurHewan;
 
-    public Layanan(int idLayanan, String namaLayanan, String deskripsi, int harga,
-            String namaHewan, String namaPemilik, String jenisHewan, String rasHewan, int umurHewan) {
+    public Layanan(int idLayanan, String namaLayanan, String deskripsi, int harga, String namaHewan, String namaPemilik, String jenisHewan, String rasHewan, int umurHewan) {
         this.idLayanan = idLayanan;
         this.namaLayanan = namaLayanan;
         this.deskripsi = deskripsi;

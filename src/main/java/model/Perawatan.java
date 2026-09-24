@@ -11,9 +11,7 @@ package model;
 public class Perawatan extends Layanan {
     private String jenisPerawatan;
 
-    public Perawatan(int idLayanan, String namaLayanan, String deskripsi, int harga,
-            String namaHewan, String namaPemilik, String jenisHewan, String rasHewan, int umurHewan,
-            String jenisPerawatan) {
+    public Perawatan(int idLayanan, String namaLayanan, String deskripsi, int harga, String namaHewan, String namaPemilik, String jenisHewan, String rasHewan, int umurHewan, String jenisPerawatan) {
         super(idLayanan, namaLayanan, deskripsi, harga, namaHewan, namaPemilik, jenisHewan, rasHewan, umurHewan);
         this.jenisPerawatan = jenisPerawatan;
     }
